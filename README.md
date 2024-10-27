@@ -1,8 +1,8 @@
 # PBKK-GO-TUGAS-1
 
-Nama : Azizah Elok Harvianti
-NRP  : 5025221243
-Kelas: PBKK A
+Azizah Elok Harvianti <br>
+5025221243 <br>
+PBKK A <br>
 
 ## Soal 1 (Universe)
 Jika input 42, maka keluarkan output "Hello Universe". Selain angka 42 output akan berupa angka inputan.
